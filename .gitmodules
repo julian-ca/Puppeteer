@@ -1,0 +1,3 @@
+[submodule "hireplicity"]
+	path = hireplicity
+	url = https://github.com/julian-ca/hireplicity-puppeteer-template
